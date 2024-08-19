@@ -1,0 +1,3 @@
+um modelo simples de contagem regressiva para reproduzir um áudio, caso nao seja possível executar a pasta "rock.mp3" basta substitui-la por outra da sua escolha lembrado que o nome da pasta tem que ser o mesmo do " pygame.mixer.music.load"(linha 6).
+
+aceito criticas construtivas mas lembre-se,  ainda estou aprendendo Rs... 
